@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://adcocnc.com/sitemap.xml
+Sitemap: https://adcocnc.com/blog/sitemap.xml
